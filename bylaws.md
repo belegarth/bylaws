@@ -133,7 +133,7 @@ Conflict of Interest Policy, and these Bylaws.
                     participants, through word or deed, are in violation
                     of section 13.2.6, and should be reprimanded via the
                     guidelines in section 13.3.
-              - 4.5.2.1.5 A person that has been nationally bannjed in
+              - 4.5.2.1.5 A person that has been nationally banned in
                     another LARP Organization, including but not limited
                     to Dagorhir, Amtgard, Hearthlight, and the Society
                     for Creation Anachronisms, can be brought forward
