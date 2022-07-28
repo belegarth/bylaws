@@ -79,11 +79,11 @@ Conflict of Interest Policy, and these Bylaws.
         an activity will allow non-members, and must specifically name
         the admittance of persons for which membership has been revoked
         or denied by BMCS.
-  - **4.4 Automatic Denial of Membership**
+  - **4.4 Automatic Denial or Revocation of Membership
       - 4.4.1 In accordance with the mission of BMCS and in an attempt
         to provide a safe environment for its Members, individuals with
         the following legal status or history will be automatically
-        denied membership in BMCS:
+        denied membership or have membership revoked in BMCS.
           - 4.4.1.1 Persons who have ever been convicted of or pleaded
             *nolo contendere* to sexual offences against a minor, or
             related actions thereof. This includes but is not limited to
